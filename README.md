@@ -18,3 +18,9 @@ mvn package
 java -cp target/sdfworkshop3-1.0-SNAPSHOT.jar sg.edu.nus.iss.App
 
 ```
+
+
+```
+java -cp target/sdfworkshop3-1.0-SNAPSHOT.jar sg.edu.nus.iss.App cartdb
+
+```
