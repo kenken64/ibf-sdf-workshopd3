@@ -32,7 +32,6 @@ public class Session {
                     stop = true;
                     break;
                 case ADD:
-                    //List<String> contents = currentCart.getContents();
                     for(int x = 1; x < term.length; x++){
                         try{
                             currentCart.add(term[x]);
